@@ -9,6 +9,12 @@ This repository contains the Employment Burnout Analysis project. This project f
 *  The Outcome: Improved employee satisfaction, reduced burnout rates, and sustained organizational success.
 
 # Project Structure
-(Data) :  The data folder contains raw data used in this project.
-(EmployeeBurnoutAnalysis.ipynb) : This ipynb file contains the complete analysis and model development process.
-(reports)
+* Data :  The data folder contains raw data used in this project.
+* Reports :  This folder contains project presentation for more delatiled Understanding.
+* EmployeeBurnoutAnalysis.ipynb : This ipynb file contains the complete analysis and model development process.
+* reuirements.txt : This requirements text file contains all the required dependencies that we need to install to run the project.
+
+# Acknowledgements
+This project is a part of the IBM SkillsBuild Intership program by Edunet. I would like to express my sincere gratitude to the course instructors for their insightful guidance and support, which have been instrumental in the development of this project. Their expertise and dedication have greatly enhanced the learning experience.
+# Feedback
+Feel free to explore my projects, and I welcome any feedback, suggestions, or contributions to improve them. Your insights are highly appreciated!
