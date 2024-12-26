@@ -9,7 +9,7 @@ This repository contains the Employment Burnout Analysis project. This project f
 *  The Outcome: Improved employee satisfaction, reduced burnout rates, and sustained organizational success.
 
 # Project Structure
-* Data :  The data folder contains raw data used in this project.
+* [Data](./Data) :  The data folder contains raw data used in this project.
 * Reports :  This folder contains project presentation for more delatiled Understanding.
 * EmployeeBurnoutAnalysis.ipynb : This ipynb file contains the complete analysis and model development process.
 * reuirements.txt : This requirements text file contains all the required dependencies that we need to install to run the project.
